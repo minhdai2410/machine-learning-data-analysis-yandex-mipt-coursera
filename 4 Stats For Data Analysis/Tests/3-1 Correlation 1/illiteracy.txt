@@ -1,0 +1,95 @@
+Country	Illit	Births
+Albania	20.5	1.78
+Algeria	39.1	2.44
+Bahrain	15	2.34
+Belize	5.9	2.97
+Benin	73.5	5.6
+Bolivia	18.5	3.65
+Botswana	17.6	3.03
+Brazil	11.9	2.29
+Brunei	11.5	2.38
+Burkina Faso	83.4	5.9
+Burma	18.1	2.23
+Burundi	54.8	6.8
+Cambodia	39.8	3.89
+Cape Verde	30.9	3.53
+Central African Republic	60.1	4.73
+Chad	60.7	6.3
+China	19.6	1.81
+Colombia	7.5	2.4
+Comoros	50.7	3.76
+Congo, Democratic Republic of the	44.9	6.7
+Congo, Republic of the	21.6	5.6
+Cote d'Ivoire	59.1	4.7
+Djibouti	41.6	4.74
+Dominican Republic	15.2	2.73
+Ecuador	9.1	2.67
+Egypt	53.1	3.1
+El Salvador	22.3	2.76
+Equatorial Guinea	21.6	5.89
+Eritrea	52.4	5.24
+Ethiopia	64.8	5.32
+Fiji	8.1	2.79
+Gambia, The	66.9	4.4
+Ghana	32.7	4.06
+Guatemala	36.8	4.33
+Guinea-Bissau	72.4	7.08
+Haiti	48.8	3.75
+Honduras	23	3.47
+Hong Kong	9.5	0.97
+India	51.7	2.84
+Indonesia	15.9	2.27
+Iran	27.4	2.07
+Israel	6.2	2.82
+Jamaica	8.3	2.38
+Jordan	13.4	3.29
+Kenya	20.3	4.98
+Kuwait	18.3	2.39
+Laos	43.4	4.5
+Lebanon	17.8	2.25
+Lesotho	5.5	3.4
+Liberia	59.5	6.78
+Libya	28.1	2.85
+Macau	8	0.88
+Madagascar	37.5	5.04
+Malawi	50.3	5.84
+Malaysia	14.7	2.74
+Mali	82	6.72
+Malta	6.4	1.37
+Mauritania	68.1	5.59
+Mauritius	17.4	1.98
+Mexico	9.8	2.11
+Mozambique	67.3	5.3
+Namibia	16.3	3.66
+Nicaragua	32.2	3.08
+Niger	90.2	7.67
+Nigeria	39	5.5
+Oman	32.8	3.44
+Pakistan	69.4	4.12
+Panama	8.1	2.62
+Papua New Guinea	40.6	3.8
+Paraguay	7	3.67
+Peru	13.3	2.74
+Portugal	8.8	1.4
+Puerto Rico	5.5	1.8
+Qatar	15	2.89
+Rwanda	35.2	5.8
+Saudi Arabia	29.3	3.83
+Senegal	69.2	4.9
+Singapore	10.4	1.24
+South Africa	14.3	2.78
+Sri Lanka	10.1	1.91
+Sudan	49.5	4.15
+Swaziland	19.2	3.91
+Syria	36.1	3.24
+Tanzania	29.4	5.2
+Thailand	5.4	1.89
+Togo	53.1	5.03
+Tunisia	35.6	2.04
+Turkey	21.4	2.19
+United Arab Emirates	18.5	2.43
+Venezuela	6.9	2.65
+Vietnam	8.5	1.78
+Yemen	69.8	5.87
+Zambia	25.2	5.4
+Zimbabwe	12.9	3.34
