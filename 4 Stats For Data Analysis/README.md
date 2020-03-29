@@ -1,4 +1,4 @@
-# Поиск структуры в данных
+# Построение выводов по данным
 [Четвёртый курс](https://www.coursera.org/learn/stats-for-data-analysis) специализации [Машинное обучение и анализ данных](https://www.coursera.org/specializations/machine-learning-data-analysis) от МФТИ и Яндекс.
 ## Структура папок
 Всё, что творится внутри этой папки, подвержены своим законам.
