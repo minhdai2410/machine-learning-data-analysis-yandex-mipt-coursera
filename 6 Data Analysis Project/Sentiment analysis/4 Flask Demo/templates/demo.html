@@ -1,0 +1,19 @@
+<!doctype html>
+<title>Анализ тональности отзывов. Демо</title>
+<h1>Анализ тональности отзывов. Демо</h1>
+<h2>Инструкция</h2>
+<p>В текстовое поле напишите текст отзыва на англ языке о технике - в ответ получите тональность отзыва.</p> 
+<p>P.S. Так как классификатор обучался на малом количестве данных, то возможны ложные предсказания.</p> 
+<h2>Примеры</h2>
+<p>The phone is nice to use. The interface is intuitive.</p> 
+<p>this phone doesnt include phone card calling.</p>
+<h2>Текстовое поле для отзыва</h2>
+<p>Введите/вставьте пример отзыва на технику:</p>
+<form method=post>
+    <textarea name=text rows=5 cols=80>{{ text }}</textarea>
+    <p></p>
+    <input type=submit value="Оценить">
+</form>
+
+<h2>Предсказание:</h2>
+{{ prediction_message }}

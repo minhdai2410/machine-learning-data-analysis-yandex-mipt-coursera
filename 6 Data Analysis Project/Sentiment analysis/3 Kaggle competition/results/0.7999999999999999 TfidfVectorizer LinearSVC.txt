@@ -1,0 +1,15 @@
+vect
+ TfidfVectorizer(analyzer='char', binary=False, decode_error='strict',
+ dtype=<class 'numpy.float64'>, encoding='utf-8',
+ input='content', lowercase=True, max_df=1.0, max_features=None,
+ min_df=0.0, ngram_range=(1, 10), norm='l2', preprocessor=None,
+ smooth_idf=True, stop_words='english', strip_accents=None,
+ sublinear_tf=False, token_pattern='(?u)\\b\\w\\w+\\b',
+ tokenizer=None, use_idf=True, vocabulary=None) 
+clf
+ LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+ intercept_scaling=1, loss='squared_hinge', max_iter=1000,
+ multi_class='ovr', penalty='l2', random_state=None, tol=0.0001,
+ verbose=0) 
+score
+ 0.7999999999999999
